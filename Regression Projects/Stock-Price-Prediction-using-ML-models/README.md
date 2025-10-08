@@ -100,6 +100,7 @@ Contributions are welcome!
 
 ## Contact
 
-**Janavi Singh**
+**Tejassveer Singh**
 
 ---
+
